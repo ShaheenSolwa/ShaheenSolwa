@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ShaheenSolwa
+- 👀 I’m interested in Artificial Intelligence and Robotics
+- 🌱 I’m currently learning Cisco DevNet and Network-Based Artificial Intelligence
+- 📫 How to reach me:
+    - 📧 Email:     shaheensolwa786@gmail.com
+    - 🎮 Gamer Tag: TonyShark786 (PS)
