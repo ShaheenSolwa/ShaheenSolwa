@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaheenSolwa
 - 👀 I’m interested in Artificial Intelligence and Robotics
-- 🌱 I’m currently learning Cisco DevNet, Network-Based Artificial Intelligence and Financial Automation 
+- 🌱 I’m currently learning Cisco DevNet, Financial Automation and Data Analytics with Microsoft Cloud, AWS and GCP
 - 📫 How to reach me:
     - 📧 Email:     shaheensolwa786@gmail.com
     - 🎮 Gamer Tag: TonyShark786 (PS)
